@@ -43,10 +43,5 @@
     "prettier-plugin-tailwindcss": "^0.7.2",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.51.0"
-<<<<<<< HEAD
   }
-=======
-  },
-  "packageManager": "pnpm@10.28.2"
->>>>>>> 1ea31c3 (fix dependency issues)
 }
